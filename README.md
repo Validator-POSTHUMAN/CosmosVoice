@@ -90,7 +90,7 @@ This is an open mic event for Cosmos Ecosystem projects, enthusiasts, and anyone
 - **Petr Kalugin** - [Cosmos Nibble](https://x.com/CosmosNibble)
 - **Lee** - [CryptoDungeons](https://www.cryptodungeon.org/)
 - **Nikita Gryazin** - [MoniTalks](https://monitalks.xyz/en)
-- **Vince | Kesha** - [Warden Protocol](https://wardenprotocol.io)
+- **Vince | Kesha** - [Warden Protocol](https://wardenprotocol.org/)
 - **Grace Yu** - [AADAO](https://www.atomaccelerator.com/)
 - **Arlai** - [Moonkitt](https://moonkitt.com/)
 - **Rua** - [Cosmos.wiki](https://cosmos.wiki)
