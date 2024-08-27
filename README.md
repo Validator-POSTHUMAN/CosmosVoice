@@ -177,7 +177,7 @@ Not much, just a few details for our announcement:
 - **Your Name and Role**
 - **Topic**: A brief description of what we'll be discussing
 - **Logo or Picture**: To include on the poster
-- **Project Link**: A link to your projectt
+- **Project Link**: A link to your project
 
 ### Associated links
 
