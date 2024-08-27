@@ -1,4 +1,5 @@
 ![CosmoVoice](https://github.com/user-attachments/assets/9b3a9888-5683-44b7-bf90-cdc5d55b9280)
+
 # Cosmos Voice
 > Contribution to Cosmos Ecosystem via providing weekly community spaces with founders and community members since 2022 (to be precise since January 8th, 2022).
 
