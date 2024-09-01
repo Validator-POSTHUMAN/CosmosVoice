@@ -12,6 +12,7 @@ This is an open mic event for Cosmos Ecosystem projects, enthusiasts, and anyone
   ```We apologize if any links are missing or outdated. If you find something that needs to be updated, please feel free to submit a PR:) We have a small bounty for PR with correct roles of Cosmos Voice participants```
 ### Projects:
 
+- **Timogey**, - architect+smart contract dev at [Astroport](https://astroport.fi/en)
 - **Butian Li**, co-founder - [Blockless](https://blockless.network/)
 - **Marina Romanova** - [Kava](https://www.kava.io)
 - **Kirill** - [Terra (Luna)](https://www.terra.money)
