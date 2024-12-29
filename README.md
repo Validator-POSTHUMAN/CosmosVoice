@@ -101,6 +101,9 @@ This is an open mic event for Cosmos Ecosystem projects, enthusiasts, and anyone
 - **Max** - AI Assistant
 - **Mitya, co-founder** - [Drop](https://x.com/dropdotmoney)
 - **Ivan Shcherbinin | JusTTeam** - Detailed situation with Evmos testnet rewards
+- **Dave | [Galactica Network](https://www.youtube.com/watch?v=9WRmuhLDygQ)**
+- **BBU and Kavin | [Sunrise Layer](https://www.youtube.com/watch?v=obSdXxxOxWs)**
+- **Hesham | [Elys Network](https://www.youtube.com/watch?v=Q_qIo3vJi00)**
 
 ### Validators:
 
@@ -168,7 +171,7 @@ Here are a few optional tips to help you make the most of your appearance:
 
 ### Post-Session:
 
-After the session, we'll publish the recording with timestamps on [YouTube](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A) (to our 10.5k subscribers) and [Omniflix TV](https://omniflix.tv/cryptobase), where we are is the leading channel by the number of published videos.
+After the session, we'll publish the recording with timestamps on [YouTube](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A) (to our 11.4k subscribers) and [Omniflix TV](https://omniflix.tv/cryptobase), where we are is the leading channel by the number of published videos.
 
 If our guest is an English speaker, our Content SubDAO will usually prepare an English extract ([Example](https://x.com/POSTHUMAN_DVS/status/1820372697387557008/video/1)), which we’ll share on our [X account](https://x.com/POSTHUMAN_DVS). :)
 
@@ -182,6 +185,6 @@ Not much, just a few details for our announcement:
 
 ### Associated links
 
-- Cosmos Voice [Playlist](https://www.youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) on YouTube (140 video much wow)
+- Cosmos Voice [Playlist](https://www.youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) on YouTube (155+ video much wow)
 - Cosmos Ecosystem Russian Speaking community in [Telegram](https://t.me/CosmosEcosystem_ru) (where events are being holded)
 - POSTHUMAN Validator [Website](https://posthuman.digital/)
