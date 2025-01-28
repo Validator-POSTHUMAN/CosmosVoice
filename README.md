@@ -188,3 +188,25 @@ Not much, just a few details for our announcement:
 - Cosmos Voice [Playlist](https://www.youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) on YouTube (155+ video much wow)
 - Cosmos Ecosystem Russian Speaking community in [Telegram](https://t.me/CosmosEcosystem_ru) (where events are being holded)
 - POSTHUMAN Validator [Website](https://posthuman.digital/)
+
+### Invitation draft for enthusiasts and ambassadors of Cosmos Voice:
+------------------------------------------
+```
+🌟 Hey team!
+
+We warmly invite you to share insights about [Project Name] with the community by answering any questions that arise. 🚫 No shilling or paid promotions—our efforts are driven purely by passion for the Cosmos Ecosystem.
+
+🎤 Join us for Cosmos Voice #[Number]
+📅 Date: [Date]
+⏰ Time: Pick a start time between [Time Range] (or later—we can adjust to your needs).
+
+This is an open mic event for:
+✅ Cosmos projects
+✅ Enthusiasts
+✅ Anyone curious or with questions about Cosmos
+
+📖 How it works: github.com/Validator-POSTHUMAN/CosmosVoice
+🎥 Example with [Guest/Project]: [YouTube Link]
+🇬🇧 English-only extract: [Social Media Link]
+
+We can’t wait to hear from you! 🚀
